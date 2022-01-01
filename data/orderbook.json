@@ -1,0 +1,24 @@
+{"load": [
+          {
+                    "drop off date": "5",
+                    "pick up date": "5",
+                    "drop off location": "5",
+                    "rate": 5,
+                    "goods": "5",
+                    "driver name": "5",
+                    "pick up location": "5",
+                    "trip number": 1,
+                    "status": true
+          },
+          {
+                    "drop off date": "8",
+                    "pick up date": "9",
+                    "drop off location": "8",
+                    "rate": 88,
+                    "goods": "8",
+                    "driver name": "8",
+                    "pick up location": "8",
+                    "trip number": 2,
+                    "status": true
+          }
+]}

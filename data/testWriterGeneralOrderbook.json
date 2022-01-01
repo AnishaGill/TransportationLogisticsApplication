@@ -1,0 +1,11 @@
+{"load": [{
+          "drop off date": "10.10.21",
+          "pick up date": "10.10.21",
+          "drop off location": "B1",
+          "rate": 200,
+          "goods": "apples",
+          "driver name": "Jaga",
+          "pick up location": "A1",
+          "trip number": 1,
+          "status": false
+}]}

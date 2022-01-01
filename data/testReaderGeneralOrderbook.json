@@ -1,0 +1,24 @@
+{"load": [
+  {
+    "drop off date": "10/30/21",
+    "pick up date": "10/29/21",
+    "rate": 200,
+    "drop off location": "Vancouver",
+    "goods": "Apples",
+    "driver name": "Arsh",
+    "pick up location": "California",
+    "trip number": 1,
+    "status": false
+  },
+  {
+    "drop off date": "11/3/21",
+    "pick up date": "10/30/21",
+    "rate": 1000,
+    "drop off location": "LA",
+    "goods": "Melons",
+    "driver name": "Jatinder",
+    "pick up location": "Delta",
+    "trip number": 2,
+    "status": false
+  }
+]}
