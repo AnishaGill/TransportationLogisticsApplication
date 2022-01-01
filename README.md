@@ -13,12 +13,3 @@ to print the dispatch to be sent to a driver and will also be able to mark loads
 I decided to design this application as my family operates a transportation logistics company and uses a robust 
 trucking software to manage our highway trucks. Over the years I have noticed some design choices that 
 different needs. 
-
-##User Stories
-
-- As a user, I want to be able to create a new load and add it to a list of loads.
-- As a user, I want to be able to view all uncompleted and completed loads.
-- As a user, I want to be able to view all uncompleted loads.
-- As a user, I want to be able to mark loads as completed
-- As a user, I want to be able to save my orderbook to a file.
-- As as user, I want to be able to load my orderbook from a file.
